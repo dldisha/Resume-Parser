@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+textconverter/__init__.py
+textconverter/method_missing.py
+textconverter/textconverter.py
+textconverter.egg-info/PKG-INFO
+textconverter.egg-info/SOURCES.txt
+textconverter.egg-info/dependency_links.txt
+textconverter.egg-info/entry_points.txt
+textconverter.egg-info/not-zip-safe
+textconverter.egg-info/requires.txt
+textconverter.egg-info/top_level.txt
